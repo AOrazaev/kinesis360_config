@@ -1,0 +1,17 @@
+<base>
+[tab]>[esc]
+[esc]>[tab]
+[left]>[up]
+[rght]>[down]
+[up]>[left]
+[down]>[rght]
+[bspc]>[lshf]
+[del]>[spc]
+[home]>[lctr]
+[ent]>[bspc]
+[spc]>[ent]
+[end]>[lalt]
+<keypad>
+<function1>
+<function2>
+<function3>
