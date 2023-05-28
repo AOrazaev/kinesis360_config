@@ -35,7 +35,6 @@
 [end]>[esc]
 <function1>
 [q]>[lmou]
-[w]>[mouu]
 [e]>[rmou]
 [y]>[sdmo]
 [esc]>[keys]
@@ -43,6 +42,6 @@
 [s]>[moud]
 [d]>[mour]
 [n]>[sumo]
-{w}>{s1}{x9}{mouu}
+{w}>{s9}{x9}{mouu}
 <function2>
 <function3>
