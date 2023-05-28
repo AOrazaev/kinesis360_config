@@ -1,4 +1,6 @@
 <base>
+[esc]>[fn1s]
+[end]>[esc]
 <keypad>
 [7]>[7]
 [8]>[8]
@@ -12,6 +14,7 @@
 [i]>[u]
 [o]>[y]
 [p]>[scol]
+[esc]>[fn1s]
 [s]>[r]
 [d]>[s]
 [f]>[t]
@@ -29,6 +32,16 @@
 [fsls]>[fsls]
 [obrk]>[obrk]
 [spc]>[spc]
+[end]>[esc]
 <function1>
+[q]>[lmou]
+[w]>[mouu]
+[e]>[rmou]
+[y]>[sdmo]
+[esc]>[keys]
+[a]>[moul]
+[s]>[moud]
+[d]>[mour]
+[n]>[sumo]
 <function2>
 <function3>
