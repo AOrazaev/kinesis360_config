@@ -43,5 +43,6 @@
 [s]>[moud]
 [d]>[mour]
 [n]>[sumo]
+{w}>{s1}{x9}{mouu}
 <function2>
 <function3>
