@@ -1,6 +1,5 @@
 <base>
-[hk1]>[fn2t]
-[esc]>[fn1s]
+[esc]>[caps]
 [end]>[esc]
 <keypad>
 [7]>[7]
