@@ -237,7 +237,7 @@
       "KC_MS_R",
       "KC_LBRC",
       "KC_RBRC",
-      "KC_TRNS",
+      "ANY(LCTL(LALT(KC_TAB)))",
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT",
